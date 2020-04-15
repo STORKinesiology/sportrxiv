@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guidelines on SportRχiv</title>
+    <link>/categories/guidelines/</link>
+    <description>Recent content in Guidelines on SportRχiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Proudly powered by the support of [STORK](https://storkinesiology.org) members</copyright>
+    <lastBuildDate>Tue, 02 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/guidelines/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Submission Guidelines</title>
+      <link>/submission-guidelines/submissionguidelines/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/submission-guidelines/submissionguidelines/</guid>
+      <description>At SportRχiv we accept submissions from those working in all aspects of the disciplines of sport and exercise science (also known as kinesiology and movement science), sport and exercise studies, rehabilitation and therapy, through to theatre, dance, and performance studies. Sub-disciplines include biomechanics, development and management, history, philosophy, physiology, physiotherapy, psychology, and sociology — to name a few.
+Submissions fall under two major types of article: (1) Prepublication versions of manuscripts (i.</description>
+    </item>
+    
+  </channel>
+</rss>

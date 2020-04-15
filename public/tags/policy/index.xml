@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>policy on SportRχiv</title>
+    <link>/tags/policy/</link>
+    <description>Recent content in policy on SportRχiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Proudly powered by the support of [STORK](https://storkinesiology.org) members</copyright>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/policy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Moderation</title>
+      <link>/submission-guidelines/moderation/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/submission-guidelines/moderation/</guid>
+      <description>SportRχiv accepts scholarly work from across fields related to sport, exercise, and physical activity. We do not assess the quality or perceived merit of the work. We do, however, examine the work to identify whether basic standards, detailed herein, of reporting have been met.
+The appearance of work is an invitation to the public and scholarly community to share, review, discuss, and evaluate it (and its linked or associated research materials).</description>
+    </item>
+    
+    <item>
+      <title>Submission Checklist</title>
+      <link>/submission-guidelines/checklist/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/submission-guidelines/checklist/</guid>
+      <description>This help guide will walk you through a few easy steps to share a preprint to SportRχiv. Before getting to this stage, please ensure your potential submission meets our submission guidelines. If your article does not conform to these basic guidelines then your submission may be rejected. Next, you will first need to create an OSF account in order to upload preprints to the repository. You can do this by clicking the here.</description>
+    </item>
+    
+  </channel>
+</rss>

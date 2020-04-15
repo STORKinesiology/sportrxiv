@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on SportRχiv</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on SportRχiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Proudly powered by the support of [STORK](https://storkinesiology.org) members</copyright>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>checklist</title>
+      <link>/tags/checklist/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/checklist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>download</title>
+      <link>/tags/download/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/download/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>icon</title>
+      <link>/tags/icon/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/icon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>moderation</title>
+      <link>/tags/moderation/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/moderation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>policy</title>
+      <link>/tags/policy/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ribbon</title>
+      <link>/tags/ribbon/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ribbon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>submission</title>
+      <link>/tags/submission/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/submission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>submit</title>
+      <link>/tags/submit/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/submit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>template</title>
+      <link>/tags/template/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/template/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>guidelines</title>
+      <link>/tags/guidelines/</link>
+      <pubDate>Fri, 28 Dec 2018 11:02:05 +0600</pubDate>
+      
+      <guid>/tags/guidelines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rules</title>
+      <link>/tags/rules/</link>
+      <pubDate>Fri, 28 Dec 2018 11:02:05 +0600</pubDate>
+      
+      <guid>/tags/rules/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

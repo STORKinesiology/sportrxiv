@@ -1,0 +1,92 @@
+################################# Default configuration ###################
+# provide your domain here
+baseURL = "https://optimistic-franklin-e96cda.netlify.com/"
+# theme
+theme = "dot"
+# site title
+title = "SportRχiv"
+# desable language
+disableLanguages = ["fr"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ 
+[markup.goldmark.renderer]
+unsafe= true
+
+################################# navigation ################################
+[[menu.main]]
+#parent = "docs"
+name = "Read"
+url = "https://share.osf.io/discover?sort=-date_updated&sources[]=SportRxiv&type[]=preprint"
+weight = 1
+
+
+[[menu.main]]
+#parent = "docs"
+name = "Submit a manuscript"
+url = "https://osf.io/preprints/sportrxiv"
+weight = 1
+
+[[menu.main]]
+name = "contact"
+url = "contact"
+weight = 4
+
+
+
+############################# Default Parameters ##########################
+[params]
+# logo is for all page
+logo = ""
+# logo white is for homepage logo, you can use colorful logo too...
+logo_white = ""
+# when logo is empty, it will shown your site title
+
+# customize color
+primary_color = "#b6ddae"
+body_color = "#f9f9f9"
+text_color = "#636363"
+text_color_dark = "#242738"
+white_color = "#ffffff"
+light_color = "#f8f9fa"
+
+# font family
+font_family = "lato" # Choose font family from : https://fonts.google.com/
+
+# contact form action
+contact_form_action = "https://formspree.io/xvoqyrnr" # contact form works with : https://formspree.io
+
+
+############################## social links ##############################
+
+[[params.social]]
+icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+link = "https://twitter.com/SportRxiv"
+
+################################ English Language ######################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+weight = 1
+home = "Home"
+copyright = "Proudly powered by the support of [STORK](https://storkinesiology.org) members"
+
+# banner
+[Languages.en.params.banner]
+title = "The Open Access Repository for Sport, Exercise, and Health Research"
+subtitle = "Learn about what SportRχiv can do for you"
+bg_image = "images/banner.jpg"
+placeholder = "Search for specific answers here"
+
+# call to action
+[Languages.en.params.cta]
+enable = true
+title = "Didn't find an answer to your question?"
+content = "Reach out via email, and we will get back to you"
+# call to action button
+[Languages.en.params.cta.button]
+enable = true
+label = "contact us"
+link = "contact"
+
+
+

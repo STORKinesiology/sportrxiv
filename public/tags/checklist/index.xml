@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>checklist on SportRχiv</title>
+    <link>/tags/checklist/</link>
+    <description>Recent content in checklist on SportRχiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Proudly powered by the support of [STORK](https://storkinesiology.org) members</copyright>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/checklist/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Submission Checklist</title>
+      <link>/submission-guidelines/checklist/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/submission-guidelines/checklist/</guid>
+      <description>This help guide will walk you through a few easy steps to share a preprint to SportRχiv. Before getting to this stage, please ensure your potential submission meets our submission guidelines. If your article does not conform to these basic guidelines then your submission may be rejected. Next, you will first need to create an OSF account in order to upload preprints to the repository. You can do this by clicking the here.</description>
+    </item>
+    
+  </channel>
+</rss>
